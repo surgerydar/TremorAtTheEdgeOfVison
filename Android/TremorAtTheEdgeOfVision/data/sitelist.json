@@ -1,0 +1,59 @@
+[
+    {
+        "sequence":"Scene1.mp4",
+        "id":"01FAA9E0-FAA9-4A4B-99CC-10FEEC5179C3",
+        "coordinate":[0.78604143333333343,51.522009016666665],
+        "notes":"Scene 1 - Table",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.16700005531311035
+    },
+    {
+        "sequence":"Scene2.mp4",
+        "id":"92486D0A-1D6D-4CAA-A04F-6BBA11E0C05C",
+        "coordinate":[0.78303171666666671,51.52173306666667],
+        "notes":"Scene 2 - Bench",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.11100000143051147
+        
+    },
+    {
+        "sequence":"Scene3.mp4",
+        "id":"8486C45B-D6A6-4FA9-9118-BC4F3ACEA941",
+        "coordinate":[0.78301802357927563,51.522249715132503],
+        "notes":"Scene 3 - Bridge",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.14800000190734863
+    },
+    {
+        "sequence":"Scene4.mp4",
+        "id":"53FCEC83-1F11-41C1-A8CB-FE6BCA025EF7",
+        "coordinate":[0.78334844927568015,51.522966074708243],
+        "notes":"Scene 3B - 2nd Bridge",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.14800000190734863
+    },
+    {
+        "sequence":"Scene5.mp4",
+        "id":"569C2276-AB3D-4EC8-9606-9E9AEECFF099",
+        "coordinate":[0.78523036666666657,51.522802500000004],
+        "notes":"Scene 4 - Chorus",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.15000003576278687
+    },
+    {
+        "sequence":"Scene6.mp4",
+        "id":"4122AFAA-BBE6-42A4-92F3-3950A994B71A",
+        "coordinate":[0.78653353333333331,51.522986199999998],
+        "notes":"Scene 5 - Violinist",
+        "outro":"In_Blue_background_track_AAC.m4a",
+        "horizontalOffset":0.14400005340576172
+    },
+    {
+        "sequence":"Scene7.mp4",
+        "id":"B2D27F60-60DE-483B-A875-526F8C68ACDD",
+        "coordinate":[0.78784536666666671,51.523401266666667],
+        "notes":"Scene 6 - Final",
+        "outro":"Scene_07_Guitar_walk_home_AAC.m4a",
+        "horizontalOffset":0.22400003671646118
+    }
+]

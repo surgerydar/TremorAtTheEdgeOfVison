@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImageButton.qml</file>
+        <file>icons/add.png</file>
+        <file>icons/cardboard.png</file>
+        <file>icons/close.png</file>
+        <file>icons/pano.png</file>
+        <file>icons/qrSample.png</file>
+        <file>icons/info.png</file>
+        <file>Pano.qml</file>
+        <file>Cardboard.qml</file>
+        <file>Info.qml</file>
+        <file>Menu.qml</file>
+        <file>VideoTest.qml</file>
+        <file>icons/360 2D VIDEO Button @4x.png</file>
+        <file>icons/About Button @4x.png</file>
+        <file>icons/About page title@4x.png</file>
+        <file>icons/BACK Button @4x.png</file>
+        <file>icons/ESTUARY2021_LOGO_BLACK_BLACK_SCREEN_RGB@4x.png</file>
+        <file>icons/HELP  Button @4x.png</file>
+        <file>icons/Home page title@4x.png</file>
+        <file>icons/Metal logo@4x.png</file>
+        <file>icons/VR GLASSES  Button @4x.png</file>
+        <file>icons/ABOUT SCREEN@4x.png</file>
+        <file>icons/HOME SCREEN@4x.png</file>
+        <file>fonts/TT2020StyleE-Regular.ttf</file>
+        <file>data/sitelist.json</file>
+        <file>About.qml</file>
+        <file>data/about.html</file>
+        <file>data/help.html</file>
+        <file>Help.qml</file>
+        <file>SceneList.qml</file>
+        <file>icons/LeftChevron@4x.png</file>
+        <file>Install.qml</file>
+        <file>ProximityPano.qml</file>
+    </qresource>
+</RCC>

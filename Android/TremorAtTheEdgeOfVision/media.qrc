@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/environmental_curtain_up_AAC.m4a</file>
+        <file>audio/Scene_07_Guitar_walk_home_AAC.m4a</file>
+        <file>audio/In_Blue_background_track_AAC.m4a</file>
+    </qresource>
+</RCC>
